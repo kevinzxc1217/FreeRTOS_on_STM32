@@ -1,0 +1,7 @@
+../FreeRTOS/portable/MemMang/heap_2.c:177:7:pvPortMalloc	160	static
+../FreeRTOS/portable/MemMang/heap_2.c:276:6:vPortFree	56	static
+../FreeRTOS/portable/MemMang/heap_2.c:303:8:xPortGetFreeHeapSize	4	static
+../FreeRTOS/portable/MemMang/heap_2.c:309:6:vPortInitialiseBlocks	4	static
+../FreeRTOS/portable/MemMang/heap_2.c:315:13:prvHeapInit	16	static
+../FreeRTOS/portable/MemMang/heap_2.c:350:6:Uint32ConvertHex	40	static
+../FreeRTOS/portable/MemMang/heap_2.c:377:6:vPrintFreeList	136	static
